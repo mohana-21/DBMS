@@ -1,12 +1,12 @@
 # E-Commerce Order Management System – RDBMS Project
 
-## 📌 Project Overview
+## Project Overview
 
 The E-Commerce Order Management System is a database-focused project designed to manage customers, products, orders, payments, inventory, and other order-related activities in an e-commerce environment.
 
 This project demonstrates practical implementation of RDBMS concepts, including ER modeling, database normalization, SQL queries, NoSQL concepts, PL/SQL programming, database constraints, reporting, and database testing.
 
-## 🎯 Objectives
+## Objectives
 
 - Design a structured database for an e-commerce platform.
 - Manage customer, product, seller, inventory, and order information.
@@ -68,7 +68,7 @@ Generate reports such as:
 - Order status report
 - Revenue summary
 
-## 🗂️ Database Design
+## Database Design
 
 The system uses an Entity Relationship (ER) Model to represent relationships between major entities.
 
